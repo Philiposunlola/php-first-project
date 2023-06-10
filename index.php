@@ -17,6 +17,8 @@
                 <option value="add">Add</option>
                 <option value="sub">Subtract</option>
             </select>
+            <input type="text" name="num02" placeholder="Number 2">
+            <button type="submit">Calculate </button>
         </form>
     </body>
 </html>
