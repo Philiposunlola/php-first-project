@@ -14,8 +14,8 @@
         <form action="function.php" method="get">
             <input type="text" name="num01" placeholder="Number 1">
             <select name="oper" id="">
-                <option value="add">Add</option>
-                <option value="sub">Subtract</option>
+                <option value="add">+</option>
+                <option value="sub">-</option>
             </select>
             <input type="text" name="num02" placeholder="Number 2">
             <button type="submit">Calculate</button>
