@@ -9,7 +9,7 @@
         <style>
             .error {color: #FF0000;}
         </style>
-    </head>
+    </head>git 
     <body>
         <form action="function.php" method="get">
             <input type="text" name="num01" placeholder="Number 1">
